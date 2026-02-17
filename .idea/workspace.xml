@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3aa2133-32c4-43d2-a129-71613f933c4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/NewMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/SortedExceptTwoItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/DoubleLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/DoubleLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3aa2133-32c4-43d2-a129-71613f933c4d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -34,16 +21,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vivek/Desktop/cse/java/1.LinkedList&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/vivek/Desktop/cse/java/1.LinkedList"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b3aa2133-32c4-43d2-a129-71613f933c4d" name="Changes" comment="" />
