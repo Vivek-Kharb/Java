@@ -1,11 +1,11 @@
 
 
-public class LinkList{
+public class SinglyLinkedListMajorFunctions{
     private Node head;
     private Node tail;
     private int size;
 
-    public LinkList() {
+    public SinglyLinkedListMajorFunctions() {
         this.size = 0;
 
     }
