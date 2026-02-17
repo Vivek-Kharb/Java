@@ -1,6 +1,6 @@
 
 
-public class DoubleLinkList{
+public class DoublyLinkedListMajorFunctions{
 
     int size=0;
 
