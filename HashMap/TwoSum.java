@@ -2,7 +2,6 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> hm = new HashMap<>();
         int[] solution = new int[2];
-
         hm.put(nums[0],0);
 
         for(int i =1;i<nums.length;i++){
