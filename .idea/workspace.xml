@@ -4,7 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3aa2133-32c4-43d2-a129-71613f933c4d" name="Changes" comment="" />
+    <list default="true" id="b3aa2133-32c4-43d2-a129-71613f933c4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/105. ConstructBinaryTreeFromPreorderAndInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106.ConstructBinaryTreeFromInorderAndPostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1318. MinimumFlipsToMake _a_OR_b_EqualToC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2279. MaximumBagsWithFullCapacityOfRocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2997. Minimum NumberOfOperationsToMakeArrayXOREqualToK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3SumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BagOfTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseXOROfAllPairings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoatsToSavePeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakAPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrokenCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CheckIfArrayIsSortedAndRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountPrefixAndSuffixPairsI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountingWordsWithAGivenPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMedianFromDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindTheLengthOfTheLongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindTheOriginalArrayOfPrefixXor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementTrie(Prefix Tree).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KthLargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LongestCommonSuffixQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximalScoreAfterApplyingKOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum IceCreamBars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum69Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumAlternatingSubsequenceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumXOROfTwoNumbersInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeanOfArrayAfterRemovingSomeElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minimum BitFlipsToConvertNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minimum RoundsToCompleteAllTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minimum TimeVisitingAllPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumDifficultyOfAJobSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumOperationsToExceedThresholdValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptimalPartitionOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveStonesToMinimizeTheTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShuffleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleNumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortIntegersByTheNumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoSum2InputArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XORQueriesOfASubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/ValidParentheses.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +80,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="325PP5Or66vJw9M5CVQydgmKFL6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,9 +94,22 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/vivek/Desktop/cse/java/1.LinkedList"
+    "last_opened_file_path": "C:/Users/vivek/Desktop/cse/java/LinkedList"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LinkedList" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b3aa2133-32c4-43d2-a129-71613f933c4d" name="Changes" comment="" />
